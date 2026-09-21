@@ -1,4 +1,5 @@
-![Uploading ChatGPT Image 21 de set. de 2026, 10_02_10 (1).png…]()
+<img width="2172" height="724" alt="ChatGPT Image 21 de set  de 2026, 10_02_10 (1)" src="https://github.com/user-attachments/assets/73ab120a-e2de-4c49-8579-7ffe97cc1fd7" />
+
 <div align="center">
 
 <div align="center">
