@@ -1,125 +1,198 @@
 <img width="2172" height="724" alt="Banner Futurista de Tecnologia e Código" src="https://github.com/user-attachments/assets/5c7e8e4b-355f-4814-bcc5-a30d7b2d54f3" />
 <div align="center">
 
-# 👨‍💻 JARLISSON BRITO
+<div align="center">
+
+<img src="./banner.png" width="100%">
+
+<br>
+
+# 👨‍💻 Jarlisson Brito
 
 ### Desenvolvedor Web • Tecnologia • Projetos Digitais
 
-**Transformando ideias em projetos através da tecnologia.**
+<p>
+  <i>Transformando ideias em projetos através da tecnologia.</i>
+</p>
 
-[🌐 Portfólio](https://jarlisson-cpu.github.io/portif-lio/) • [💼 LinkedIn](https://www.linkedin.com/in/jarlisson-brito-602909368/)
+<br>
+
+<a href="https://github.com/Jarlisson-cpu">
+  <img src="https://img.shields.io/badge/GitHub-Jarlisson--cpu-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/jarlisson-brito-602909368/">
+  <img src="https://img.shields.io/badge/LinkedIn-Jarlisson%20Brito-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
-Olá! Eu sou **Jarlisson Brito**, desenvolvedor web em formação e estudante de tecnologia.
+Olá! Eu sou **Jarlisson Brito**, estudante de tecnologia e desenvolvedor web em formação.
 
-Tenho interesse em desenvolvimento web, programação, banco de dados e criação de soluções digitais.
+Tenho interesse em **desenvolvimento web, programação, banco de dados e criação de soluções digitais**.
 
-Atualmente venho desenvolvendo projetos para colocar em prática meus conhecimentos e evoluir continuamente como desenvolvedor.
+Uso meus projetos para colocar meus conhecimentos em prática, experimentar novas tecnologias e evoluir continuamente como desenvolvedor.
 
-> 💡 **Meu objetivo:** aprender, construir e transformar ideias em soluções digitais.
+> 💡 **Ideias + Código = Grandes Projetos**
 
 ---
 
-## 🛠️ Tecnologias
+# 🛠️ Tecnologias
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+### 💻 Desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,spring" />
+
+### 🗄️ Banco de dados
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+### 🔧 Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
 ---
 
-## ⭐ Projetos em destaque
+# 📚 Atualmente estudando
 
-### 🏋️ Academia — Reservas
-
-Sistema desenvolvido para gerenciamento de reservas de academia.
-
-**Tecnologias:** JavaScript
-
----
-
-### 💳 HAPIA BANK
-
-Projeto de interface de sistema bancário desenvolvido para praticar desenvolvimento web e criação de interfaces.
-
-**Tecnologias:** HTML • CSS
+```text
+🌐 Desenvolvimento Web
+⚡ JavaScript
+🐍 Python
+☕ Java
+🌱 Spring Boot
+🗄️ SQL e Banco de Dados
+🔧 Git e GitHub
+🎨 UI e desenvolvimento de interfaces
+```
 
 ---
 
-### 💻 Projeto Tela
+# ⭐ Projetos em destaque
 
-Projeto desenvolvido para prática de construção de interfaces web.
+<div align="center">
 
-**Tecnologias:** HTML
+<a href="https://github.com/Jarlisson-cpu/ACADEMIA--RESERVAS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarlisson-cpu&repo=ACADEMIA--RESERVAS&theme=tokyonight&hide_border=true">
+</a>
 
----
+<a href="https://github.com/Jarlisson-cpu/HAPIA-BANK">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarlisson-cpu&repo=HAPIA-BANK&theme=tokyonight&hide_border=true">
+</a>
 
-### 🌐 Meu Portfólio
+</div>
 
-Meu espaço pessoal para apresentar projetos, conhecimentos e informações profissionais.
+<div align="center">
 
-**Tecnologias:** HTML
+<a href="https://github.com/Jarlisson-cpu/PROJETO-TELA">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarlisson-cpu&repo=PROJETO-TELA&theme=tokyonight&hide_border=true">
+</a>
 
----
+<a href="https://github.com/Jarlisson-cpu/portif-lio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarlisson-cpu&repo=portif-lio&theme=tokyonight&hide_border=true">
+</a>
 
-## 📚 Atualmente estudando
-
-* Desenvolvimento Web
-* JavaScript
-* Python
-* Banco de Dados
-* SQL
-* Git e GitHub
-* Java
-* Spring Boot
-* Desenvolvimento de APIs
+</div>
 
 ---
 
-## 🎯 Objetivos
+# 💡 O que estou construindo
+
+<div align="center">
+
+| 🚀 Área            | 🎯 Objetivo                              |
+| ------------------ | ---------------------------------------- |
+| 🌐 Web             | Criar interfaces modernas e responsivas  |
+| 💻 Programação     | Evoluir continuamente minhas habilidades |
+| 🗄️ Banco de Dados | Aprender e aplicar SQL                   |
+| ☕ Java             | Desenvolver aplicações e APIs            |
+| 🌱 Spring Boot     | Construir aplicações backend             |
+| 🎨 Interfaces      | Criar experiências simples e intuitivas  |
+
+</div>
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jarlisson-cpu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarlisson-cpu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Atividade
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Jarlisson-cpu&theme=tokyonight&hide_border=true">
+
+</div>
+
+---
+
+# 🎯 Meus objetivos
 
 ```text
 📚 Aprender continuamente
 💻 Desenvolver projetos reais
 🚀 Evoluir como desenvolvedor
 🌐 Criar soluções úteis
-🤝 Participar de projetos e oportunidades
+🧠 Aprender novas tecnologias
+🤝 Participar de novos projetos
+📈 Construir uma carreira na área de tecnologia
 ```
 
 ---
 
-## 📊 GitHub
+# 📂 Organização dos meus projetos
 
-<div align="center">
+Meus projetos estão divididos entre:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jarlisson-cpu\&show_icons=true\&theme=tokyonight\&hide_border=true)
+```text
+🚀 Projetos principais
+📚 Projetos de estudo
+🧪 Experimentos
+💻 Desenvolvimento Web
+🗄️ Banco de Dados
+☕ Java / Spring Boot
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarlisson-cpu\&layout=compact\&theme=tokyonight\&hide_border=true)
+Cada projeto possui seu próprio README com informações sobre:
 
-</div>
+* 📌 Objetivo
+* ✨ Funcionalidades
+* 🛠️ Tecnologias
+* 📸 Imagens
+* 🚀 Como executar
+* 📚 O que foi aprendido
+* 🔮 Melhorias futuras
 
 ---
 
-## 🤝 Vamos nos conectar?
+# 📫 Onde me encontrar
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jarlisson-brito-602909368/)
+<a href="https://github.com/Jarlisson-cpu">
+<img src="https://img.shields.io/badge/GitHub-Jarlisson--cpu-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-00BFFF?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://jarlisson-cpu.github.io/portif-lio/)
+<a href="https://www.linkedin.com/in/jarlisson-brito-602909368/">
+<img src="https://img.shields.io/badge/LinkedIn-Jarlisson%20Brito-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
@@ -129,6 +202,12 @@ Meu espaço pessoal para apresentar projetos, conhecimentos e informações prof
 
 ### 💙 Obrigado por visitar meu perfil!
 
-`Jarlisson-cpu`
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Jarlisson-cpu&label=Visualizações%20do%20perfil&color=0e75b6&style=flat">
+
+<br><br>
+
+**Jarlisson-cpu**
 
 </div>
