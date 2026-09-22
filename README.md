@@ -1,4 +1,5 @@
-<img width="2172" height="724" alt="ChatGPT Image 21 de set  de 2026, 10_02_10 (1)" src="https://github.com/user-attachments/assets/73ab120a-e2de-4c49-8579-7ffe97cc1fd7" />
+<img width="1400" height="466" alt="aeddcf7c-328a-4645-ab75-ddf3b7604618" src="https://github.com/user-attachments/assets/cea1d716-6ee7-4b9e-96a5-773f0239c454" />
+
 <div align="center">
 
 <img src="./banner.png" width="100%">
