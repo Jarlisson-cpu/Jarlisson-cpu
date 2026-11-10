@@ -120,6 +120,20 @@ Sou **Jarlisson Brito**, estudante de **Ciências da Computação** e desenvolve
 
 ---
 
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jarlisson-cpu/jarlisson-cpu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jarlisson-cpu/jarlisson-cpu/output/github-snake.svg" />
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Jarlisson-cpu/jarlisson-cpu/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🎯 Objetivos atuais
 
 - [x] Construir um projeto Python grande e modular (JARVIS)
