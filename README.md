@@ -52,13 +52,13 @@ Sou **Jarlisson Brito**, estudante de **Ciências da Computação** e desenvolve
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🤖 **[JARVIS — Assistente de IA](https://github.com/Jarlisson-cpu/Javis-jz)** | Assistente pessoal para Windows com voz offline (Vosk), memória de longo prazo (SQLite + ChromaDB), IA multi-modelo, sistema de plugins, GUI Tkinter, dashboard web e testes automatizados. | `Python` `SQLite` `ChromaDB` `pytest` |
-| 🏋️ **[Academia Power — Reservas](https://github.com/Jarlisson-cpu/ACADEMIA--RESERVAS)** | Sistema web de reservas de aulas para academia, com API REST em Flask, banco SQLite e verificação de conflito de horários. | `Python` `Flask` `SQLite` `JavaScript` |
+| 🤖 **[JARVIS — Assistente de IA](https://github.com/Jarlisson-cpu/jarvis-assistente)** | Assistente pessoal para Windows com voz offline (Vosk), memória de longo prazo (SQLite + ChromaDB), IA multi-modelo, sistema de plugins, GUI Tkinter, dashboard web e testes automatizados. | `Python` `SQLite` `ChromaDB` `pytest` |
+| 🏋️ **[Academia Power — Reservas](https://github.com/Jarlisson-cpu/sistema-reservas-academia)** | Sistema web de reservas de aulas para academia, com API REST em Flask, banco SQLite e verificação de conflito de horários. | `Python` `Flask` `SQLite` `JavaScript` |
 | ♿ **[Acessibilidade Orla da Atalaia](https://github.com/Jarlisson-cpu/meu-site)** | PWA com mapa interativo dos pontos acessíveis da Orla de Aracaju: alto contraste, leitura por voz, navegação por teclado e uso offline. | `HTML` `CSS` `JavaScript` `Leaflet` `PWA` |
-| 🦅 **[Harpia Bank](https://github.com/Jarlisson-cpu/HAPIA-BANK)** | Landing page e tela de login de um banco digital fictício, construída a partir de um protótipo de UI. | `HTML` `CSS` |
-| 🎓 **[Eng Play — Fluxo de Cancelamento](https://github.com/Jarlisson-cpu/tela-de-cancelamento-eng-play)** | Fluxo de telas de retenção/cancelamento de assinatura, desenvolvido na residência Eng Play. | `HTML` `CSS` `JavaScript` |
-| 🧮 **[Matrizes e Sistemas Lineares](https://github.com/Jarlisson-cpu/DETERMINA-O-DE-MATRIZES-INVERSA-E-ADJUNTAS-E-SISTEMAS-LINEARES)** | Determinante (Laplace), matriz adjunta, inversa e resolução de sistemas por Gauss-Jordan, sem bibliotecas externas. | `Python` |
-| 📉 **[Métodos Numéricos](https://github.com/Jarlisson-cpu/ABERTURA-E-FECHAMENTO-DE-COFRES)** | Cálculo de raízes de funções pelos métodos da Bissecção, Newton-Raphson e Secantes. | `Python` |
+| 🦅 **[Harpia Bank](https://github.com/Jarlisson-cpu/harpia-bank)** | Landing page e tela de login de um banco digital fictício, construída a partir de um protótipo de UI. | `HTML` `CSS` |
+| 🎓 **[Eng Play — Fluxo de Cancelamento](https://github.com/Jarlisson-cpu/tela-cancelamento-engplay)** | Fluxo de telas de retenção/cancelamento de assinatura, desenvolvido na residência Eng Play. | `HTML` `CSS` `JavaScript` |
+| 🧮 **[Matrizes e Sistemas Lineares](https://github.com/Jarlisson-cpu/matrizes-inversa-adjunta-sistemas-lineares)** | Determinante (Laplace), matriz adjunta, inversa e resolução de sistemas por Gauss-Jordan, sem bibliotecas externas. | `Python` |
+| 📉 **[Métodos Numéricos](https://github.com/Jarlisson-cpu/abertura-fechamento-cofres)** | Cálculo de raízes de funções pelos métodos da Bissecção, Newton-Raphson e Secantes. | `Python` |
 
 ---
 
@@ -67,41 +67,49 @@ Sou **Jarlisson Brito**, estudante de **Ciências da Computação** e desenvolve
 <details>
 <summary><b>🚀 Projetos principais</b></summary>
 
-- [Javis-jz](https://github.com/Jarlisson-cpu/Javis-jz) — Assistente de IA pessoal (JARVIS)
-- [ACADEMIA--RESERVAS](https://github.com/Jarlisson-cpu/ACADEMIA--RESERVAS) — Sistema de reservas com Flask + SQLite
+- [jarvis-assistente](https://github.com/Jarlisson-cpu/jarvis-assistente) — Assistente de IA pessoal (JARVIS)
+- [sistema-reservas-academia](https://github.com/Jarlisson-cpu/sistema-reservas-academia) — Sistema de reservas com Flask + SQLite
 - [meu-site](https://github.com/Jarlisson-cpu/meu-site) — PWA de acessibilidade da Orla da Atalaia
-- [HAPIA-BANK](https://github.com/Jarlisson-cpu/HAPIA-BANK) — Interface do banco fictício Harpia Bank
-- [tela-de-cancelamento-eng-play](https://github.com/Jarlisson-cpu/tela-de-cancelamento-eng-play) — Fluxo de cancelamento (residência Eng Play)
+- [controle-de-financas](https://github.com/Jarlisson-cpu/controle-de-financas) — Minhas Finanças: controle financeiro pessoal instalável (PWA)
+- [harpia-bank](https://github.com/Jarlisson-cpu/harpia-bank) — Interface do banco fictício Harpia Bank
+- [tela-cancelamento-engplay](https://github.com/Jarlisson-cpu/tela-cancelamento-engplay) — Fluxo de cancelamento (residência Eng Play)
+
+</details>
+
+<details>
+<summary><b>☕ Java e Banco de Dados</b></summary>
+
+- [bubble-sort-java](https://github.com/Jarlisson-cpu/bubble-sort-java) — Ordenação de 1.000.000 de empresas com Bubble Sort otimizado
+- [oficina-mecanica-banco-de-dados](https://github.com/Jarlisson-cpu/oficina-mecanica-banco-de-dados) — Modelagem e consultas do banco de dados de uma oficina mecânica
 
 </details>
 
 <details>
 <summary><b>🧮 Matemática computacional (Python)</b></summary>
 
-- [DETERMINA-O-DE-MATRIZES-INVERSA-E-ADJUNTAS-E-SISTEMAS-LINEARES](https://github.com/Jarlisson-cpu/DETERMINA-O-DE-MATRIZES-INVERSA-E-ADJUNTAS-E-SISTEMAS-LINEARES) — Determinante, adjunta, inversa e Gauss-Jordan
-- [ABERTURA-E-FECHAMENTO-DE-COFRES](https://github.com/Jarlisson-cpu/ABERTURA-E-FECHAMENTO-DE-COFRES) — Bissecção, Newton e Secantes
+- [matrizes-inversa-adjunta-sistemas-lineares](https://github.com/Jarlisson-cpu/matrizes-inversa-adjunta-sistemas-lineares) — Determinante, adjunta, inversa e Gauss-Jordan
+- [abertura-fechamento-cofres](https://github.com/Jarlisson-cpu/abertura-fechamento-cofres) — Bissecção, Newton e Secantes
 
 </details>
 
 <details>
 <summary><b>🙋 Portfólio e apresentação</b></summary>
 
-- [portif-lio](https://github.com/Jarlisson-cpu/portif-lio) — Portfólio pessoal (versão atual)
-- [PORTI](https://github.com/Jarlisson-cpu/PORTI) — Primeira versão do portfólio, com mini-projetos em JavaScript
-- [BIO-JARLISSON](https://github.com/Jarlisson-cpu/BIO-JARLISSON) — Bio de apresentação
-- [PROJETO-TELA](https://github.com/Jarlisson-cpu/PROJETO-TELA) — Página de vaga para Desenvolvedor Front-end
+- [jarlisson-cpu.github.io](https://github.com/Jarlisson-cpu/jarlisson-cpu.github.io) — Portfólio pessoal com console interativo (versão atual)
+- [primeiro-portfolio](https://github.com/Jarlisson-cpu/primeiro-portfolio) — Primeira versão do portfólio, com mini-projetos em JavaScript
+- [pagina-vaga-frontend](https://github.com/Jarlisson-cpu/pagina-vaga-frontend) — Página de vaga para Desenvolvedor Front-end
 
 </details>
 
 <details>
-<summary><b>📚 Estudos de HTML e CSS</b></summary>
+<summary><b>📚 Estudos de HTML, CSS e JavaScript</b></summary>
 
-- [WEB1.0-A-4.0-HTML.](https://github.com/Jarlisson-cpu/WEB1.0-A-4.0-HTML.) — Site sobre a evolução da Web 1.0 à 4.0 (multi-página)
-- [WEB--NCORA](https://github.com/Jarlisson-cpu/WEB--NCORA) — Mesma pesquisa da Web 1.0 à 4.0, em página única com âncoras
-- [TABELAS.HTML](https://github.com/Jarlisson-cpu/TABELAS.HTML) — Exercícios de tabelas em HTML
-- [VIDEO--AUDIO](https://github.com/Jarlisson-cpu/VIDEO--AUDIO) — Vídeo e áudio com HTML5
-- [MARGIN-X-PADDING](https://github.com/Jarlisson-cpu/MARGIN-X-PADDING) — Introdução ao CSS: margin x padding
-- [GITGITHUB-OFICINA-CPU](https://github.com/Jarlisson-cpu/GITGITHUB-OFICINA-CPU) — Oficina de Git/GitHub e mentoria (inclui o jogo Mario Jump)
+- [evolucao-da-web](https://github.com/Jarlisson-cpu/evolucao-da-web) — Site sobre a evolução da Web 1.0 à 4.0 (multi-página)
+- [html-links-ancora](https://github.com/Jarlisson-cpu/html-links-ancora) — Mesma pesquisa da Web 1.0 à 4.0, em página única com âncoras
+- [html-tabelas](https://github.com/Jarlisson-cpu/html-tabelas) — Exercícios de tabelas em HTML
+- [html-video-audio](https://github.com/Jarlisson-cpu/html-video-audio) — Vídeo e áudio com HTML5
+- [css-margin-vs-padding](https://github.com/Jarlisson-cpu/css-margin-vs-padding) — Introdução ao CSS: margin x padding
+- [mario-jump-game](https://github.com/Jarlisson-cpu/mario-jump-game) — Jogo Mario Jump em JavaScript
 
 </details>
 
