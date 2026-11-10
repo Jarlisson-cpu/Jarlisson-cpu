@@ -79,6 +79,7 @@ Sou **Jarlisson Brito**, estudante de **Ciências da Computação** e desenvolve
 <details>
 <summary><b>☕ Java e Banco de Dados</b></summary>
 
+- [biblioteca-api](https://github.com/Jarlisson-cpu/biblioteca-api) — API REST em Spring Boot: acervo, empréstimos, devoluções e multas
 - [bubble-sort-java](https://github.com/Jarlisson-cpu/bubble-sort-java) — Ordenação de 1.000.000 de empresas com Bubble Sort otimizado
 - [oficina-mecanica-banco-de-dados](https://github.com/Jarlisson-cpu/oficina-mecanica-banco-de-dados) — Modelagem e consultas do banco de dados de uma oficina mecânica
 
